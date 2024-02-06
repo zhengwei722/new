@@ -9,6 +9,8 @@ def print_hi(name):
     print(f'Hi, {name}')  # 按 Ctrl+F8 切换断点。
     print(23)
     print(123)
+    print(23)
+    print(123)
 
 
 # 按装订区域中的绿色按钮以运行脚本。
