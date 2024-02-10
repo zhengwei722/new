@@ -14,6 +14,7 @@ def print_hi(name):
     print(23)
     print(123)
     print(123)
+    print(23)
 
 
 # 按装订区域中的绿色按钮以运行脚本。
