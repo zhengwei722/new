@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="NewsRecommends-master" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="NewsRecommends-master" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="PromptToolBackend2" project-jdk-type="Python SDK" />
 </project>
