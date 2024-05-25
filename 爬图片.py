@@ -116,7 +116,7 @@ def get_down_img(img_url_list,keyword):
 
 if __name__ == '__main__':
     # 1. 修改关键词
-    keyword = '风景'
+    keyword = '美女头像'
     # 2. 获取指定关键词的图片链接
     img_url_list = get_img_url(keyword)
     # 3. 下载图片到指定位置
